@@ -1,0 +1,35 @@
+
+install.packages(
+  c(
+    'Seurat',
+    'methods',
+    'BiocGenerics',
+    'S4Vectors',
+    'DelayedArray',
+    'MAST',
+    'cccd',
+    'cowplot',
+    'data.table',
+    'DirichletReg',
+    'doParallel',
+    'dplyr',
+    'expm',
+    'Hmisc',
+    'ggbeeswarm',
+    'ggplot2',
+    'ggrepel',
+    'ggsignif',
+    'gtools',
+    'MASS',
+    'Matrix',
+    'Matrix.utils',
+    'rsvd',
+    'Rtsne',
+    'RColorBrewer',
+    'sva',
+    'tibble',
+    'tidyverse',
+    'tidyr',
+    'wordspace'
+  )
+)

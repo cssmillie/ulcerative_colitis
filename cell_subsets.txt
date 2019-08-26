@@ -1,0 +1,51 @@
+Stem	Epithelial
+TA 1	Epithelial
+TA 2	Epithelial
+Cycling TA	Epithelial
+Immature Enterocytes 1	Epithelial
+Immature Enterocytes 2	Epithelial
+Enterocyte Progenitors	Epithelial
+Enterocytes	Epithelial
+M cells	Epithelial
+Best4+ Enterocytes	Epithelial
+Secretory TA	Epithelial
+Immature Goblet	Epithelial
+Goblet	Epithelial
+Tuft	Epithelial
+Enteroendocrine	Epithelial
+WNT2B+ Fos-hi	Fibroblasts
+WNT2B+ Fos-lo 1	Fibroblasts
+WNT2B+ Fos-lo 2	Fibroblasts
+RSPO3+	Fibroblasts
+WNT5B+ 1	Fibroblasts
+WNT5B+ 2	Fibroblasts
+Inflammatory Fibroblasts	Fibroblasts
+Myofibroblasts	Fibroblasts
+Endothelial	Endothelial
+Microvascular	Endothelial
+Post-capillary Venules	Endothelial
+Pericytes	Endothelial
+Glia	Glia
+Macrophages	Myeloid
+DC1	Myeloid
+DC2	Myeloid
+Inflammatory Monocytes	Myeloid
+CD69+ Mast	Myeloid
+CD69- Mast	Myeloid
+Cycling Monocytes	Myeloid
+NKs	T_cells
+ILCs	T_cells
+CD4+ Activated Fos-hi	T_cells
+CD4+ Activated Fos-lo	T_cells
+CD4+ Memory	T_cells
+Tregs	T_cells
+CD4+ PD1+	T_cells
+CD8+ IELs	T_cells
+CD8+ LP	T_cells
+CD8+ IL17+	T_cells
+MT-hi	T_cells
+Cycling T	T_cells
+Plasma	B_cells
+Follicular	B_cells
+GC	B_cells
+Cycling B	B_cells
