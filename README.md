@@ -32,17 +32,17 @@ If you have trouble installing any of these packages through CRAN, you will need
 https://portals.broadinstitute.org/single_cell/study/SCP259
 
 The files you need are:
-** Metadata **
+**Metadata**
 - all.meta2.txt
-** Metadata **
+**Epithelial data**
 - Epi.genes.tsv
 - Epi.barcodes2.tsv
 - gene_sorted-Epi.matrix.mtx
-** Stromal data **
+**Stromal data**
 - Fib.genes.tsv
 - Fib.barcodes2.tsv
 - gene_sorted-Fib.matrix.mtx
-** Immune data **
+**Immune data**
 - Imm.genes.tsv
 - Imm.barcodes2.tsv
 - gene_sorted-Imm.matrix.mtx
