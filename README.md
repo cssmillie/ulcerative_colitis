@@ -13,14 +13,14 @@ For additional code or questions please contact Chris Smillie (cssmillie@gmail.c
 ## Getting started
 
 
-### Clone github repository and "cd" into the "ulcerative_colitis" directory:
+1) Clone github repository and "cd" into the "ulcerative_colitis" directory:
 ```
 git clone https://github.com/cssmillie/ulcerative_colitis.git
 cd ulcerative_colitis
 ```
 
 
-### Install necessary R packages
+2) Install necessary R packages
 ```
 Rscript install.r
 ```
@@ -28,7 +28,7 @@ If you have trouble installing any of these packages through CRAN, you will need
 
 
 
-### Download the expression data from the Single Cell Portal (download into the "ulcerative colitis" GitHub directory)
+3) Download the expression data from the Single Cell Portal (download into the "ulcerative colitis" GitHub directory)
 https://portals.broadinstitute.org/single_cell/study/SCP259
 
 The files you need are:
@@ -55,7 +55,7 @@ The files you need are:
 - gene_sorted-Imm.matrix.mtx
 
 
-### Download Seurat objects for discovery cohort (download into the "ulcerative_colitis" GitHub directory):
+4) Download Seurat objects for discovery cohort (download into the "ulcerative_colitis" GitHub directory):
 https://www.dropbox.com/sh/4t8p89kbw4miy8x/AAAogGRGtmgakzl3ApZzHrCsa?dl=0
 
 The files you need are:
@@ -65,4 +65,4 @@ The files you need are:
 - train.Imm.seur.rds
 
 
-### After everything has been downloaded into the same directory ("ulcerative_colitis"), you can follow the code example in the "run.r" script. This takes you through the steps of the analysis pipeline, including cell clustering, ambient RNA detection, estimating significant changes in cell frequencies with disease, and performing differential expression tests.
+5) After everything has been downloaded into the same directory ("ulcerative_colitis"), you can follow the code example in the "run.r" script. This takes you through the steps of the analysis pipeline, including cell clustering, ambient RNA detection, estimating significant changes in cell frequencies with disease, and performing differential expression tests.
