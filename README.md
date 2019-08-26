@@ -1,7 +1,7 @@
-# -----------------------------------------------------------------------------------
-# Intra- and inter-cellular rewiring of the human colon during ulcerative colitis
-# Smillie, C.S., Biton, M.B., Ordovas-Montanes J., et al., Cell, 2019.
-# -----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+Intra- and inter-cellular rewiring of the human colon during ulcerative colitis
+Smillie, C.S., Biton, M.B., Ordovas-Montanes J., et al., Cell, 2019.
+-----------------------------------------------------------------------------------
 
 This repository contains code for:
 - clustering single cells into cell subsets
