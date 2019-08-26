@@ -1,4 +1,3 @@
----
 Intra- and inter-cellular rewiring of the human colon during ulcerative colitis
 Smillie, C.S., Biton, M.B., Ordovas-Montanes J., et al., Cell, 2019.
 ---
@@ -10,5 +9,8 @@ This repository contains code for:
 - Calculating significant changes in gene expression with disease
 
 For additional code or questions please contact Chris Smillie (cssmillie@gmail.com)
----
 
+Getting started:
+1) Download data
+2) Install dependencies
+3) Run tutorial script ("run.r")
