@@ -57,8 +57,12 @@ The files you need are:
 
 4. Download Seurat objects for discovery cohort (download into the "ulcerative_colitis" GitHub directory):
 https://www.dropbox.com/sh/4t8p89kbw4miy8x/AAAogGRGtmgakzl3ApZzHrCsa?dl=0
+
+The files you need are:
+
 - train.Epi.seur.rds
 - train.Fib.seur.rds
 - train.Imm.seur.rds
 
 
+5. After everything has been downloaded into the same directory ("ulcerative_colitis"), you can follow the code example in the "run.r" script.
