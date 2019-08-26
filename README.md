@@ -12,17 +12,20 @@ For additional code or questions please contact Chris Smillie (cssmillie@gmail.c
 
 ## Getting started
 
+
 1. Clone github repository and "cd" into the "ulcerative_colitis" directory:
 ```
 git clone https://github.com/cssmillie/ulcerative_colitis.git
 cd ulcerative_colitis
 ```
 
+
 2. Install necessary R packages
 ```
 Rscript install.r
 ```
 If you have trouble installing any of these packages through CRAN, you will need to do so manually.
+
 
 3. Download the expression data from the Single Cell Portal (download into the "ulcerative colitis" GitHub directory)
 https://portals.broadinstitute.org/single_cell/study/SCP259
@@ -32,5 +35,11 @@ The files you need are:
 - Stromal data: Fib.genes.tsv, Fib.barcodes2.tsv, gene_sorted-Fib.matrix.mtx
 - Immune data: Imm.genes.tsv, Imm.barcodes2.tsv, gene_sorted-Imm.matrix.mtx
 
+
 4. Download Seurat objects for discovery cohort (download into the "ulcerative_colitis" GitHub directory):
 https://www.dropbox.com/sh/4t8p89kbw4miy8x/AAAogGRGtmgakzl3ApZzHrCsa?dl=0
+- train.Epi.seur.rds
+- train.Fib.seur.rds
+- train.Imm.seur.rds
+
+
