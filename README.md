@@ -27,13 +27,25 @@ Rscript install.r
 If you have trouble installing any of these packages through CRAN, you will need to do so manually.
 
 
+
 3. Download the expression data from the Single Cell Portal (download into the "ulcerative colitis" GitHub directory)
 https://portals.broadinstitute.org/single_cell/study/SCP259
+
 The files you need are:
-- Metadata: all.meta2.txt
-- Epithelial data: Epi.genes.tsv, Epi.barcodes2.tsv, gene_sorted-Epi.matrix.mtx
-- Stromal data: Fib.genes.tsv, Fib.barcodes2.tsv, gene_sorted-Fib.matrix.mtx
-- Immune data: Imm.genes.tsv, Imm.barcodes2.tsv, gene_sorted-Imm.matrix.mtx
+- Metadata
+-- all.meta2.txt
+- Epithelial data
+-- Epi.genes.tsv
+-- Epi.barcodes2.tsv
+-- gene_sorted-Epi.matrix.mtx
+- Stromal data
+-- Fib.genes.tsv
+-- Fib.barcodes2.tsv
+-- gene_sorted-Fib.matrix.mtx
+- Immune data
+-- Imm.genes.tsv
+-- Imm.barcodes2.tsv
+-- gene_sorted-Imm.matrix.mtx
 
 
 4. Download Seurat objects for discovery cohort (download into the "ulcerative_colitis" GitHub directory):
