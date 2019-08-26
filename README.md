@@ -65,4 +65,4 @@ The files you need are:
 - train.Imm.seur.rds
 
 
-5. After everything has been downloaded into the same directory ("ulcerative_colitis"), you can follow the code example in the "run.r" script.
+5. After everything has been downloaded into the same directory ("ulcerative_colitis"), you can follow the code example in the "run.r" script. This takes you through the steps of the analysis pipeline, including cell clustering, ambient RNA detection, estimating significant changes in cell frequencies with disease, and performing differential expression tests.
