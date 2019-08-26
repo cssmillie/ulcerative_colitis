@@ -1,6 +1,7 @@
 Intra- and inter-cellular rewiring of the human colon during ulcerative colitis
 Smillie, C.S., Biton, M.B., Ordovas-Montanes J., et al., Cell, 2019.
----
+
+-
 
 This repository contains code for:
 - Clustering single cells into cell subsets
@@ -10,7 +11,17 @@ This repository contains code for:
 
 For additional code or questions please contact Chris Smillie (cssmillie@gmail.com)
 
-Getting started:
-1) Download data
-2) Install dependencies
-3) Run tutorial script ("run.r")
+-
+
+To get started, you will need to do the following:
+
+1. Download expression data from Single Cell Portal (accession SCP259):
+https://portals.broadinstitute.org/single_cell/study/SCP259
+
+2. Download Seurat objects for discovery cohort (optional):
+https://www.dropbox.com/sh/4t8p89kbw4miy8x/AAAogGRGtmgakzl3ApZzHrCsa?dl=0
+
+
+
+
+
