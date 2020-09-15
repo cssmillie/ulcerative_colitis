@@ -56,7 +56,7 @@ The files you need are:
 
 
 4) Download Seurat objects for discovery cohort (download into the "ulcerative_colitis" GitHub directory):
-https://www.dropbox.com/sh/4t8p89kbw4miy8x/AAAogGRGtmgakzl3ApZzHrCsa?dl=0
+https://www.dropbox.com/sh/dn4gwdww8pmfebf/AACXYu8rda5LoLwuCZ8aZXfma?dl=0
 
 The files you need are:
 
